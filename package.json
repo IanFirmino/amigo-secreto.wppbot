@@ -1,0 +1,24 @@
+{
+  "name": "amigo-secreto.wppbot",
+  "version": "1.0.0",
+  "description": "Projeto node.js de bot whatsapp para gerar o jogo de amigo secreto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanFirmino/amigo-secreto.wppbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanFirmino/amigo-secreto.wppbot/issues"
+  },
+  "homepage": "https://github.com/IanFirmino/amigo-secreto.wppbot#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
